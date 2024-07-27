@@ -38,6 +38,8 @@ Congratulations, the setup is complete, now you can test your KMBOX NET using di
 
 You can download it from this link -> https://shorturl.at/cswW0
 
+(credits - direct)
+
 
 
 
